@@ -1,0 +1,8 @@
+{
+  "name": "storageCrud",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "c2b174a6"
+}
